@@ -1,2 +1,2 @@
 # js-english
-a javascript series of code of chai aur code
+a javascript series of code of chai aur(code)
